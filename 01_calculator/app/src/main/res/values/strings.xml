@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Maciej_Ładoś_wt_15_30</string>
+    <string name="op_multiplication">*</string>
+    <string name="op_subtraction">-</string>
+    <string name="op_addition">+</string>
+    <string name="op_equal">=</string>
+    <string name="op_division">/</string>
+    <string name="op_sqrt">SQRT</string>
+    <string name="op_clear">CLEAR</string>
+    <string name="digit_colon">.</string>
+</resources>
