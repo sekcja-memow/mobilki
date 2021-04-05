@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Maciej_Ładoś_wt_15_30</string>
+    <string name="navigation_rates">Kursy walut</string>
+    <string name="navigation_gold">Wartość złota</string>
+    <string name="navigation_exchange">Przelicznik walut</string>
+    <string name="rates_title">Aktualny kurs walut</string>
+    <string name="currency_current_rate">Aktualny kurs waluty</string>
+    <string name="currency_last_rate">Ostatni kurs waluty</string>
+    <string name="currency_weekly_rate">Tygodniowy kurs waluty</string>
+    <string name="currency_monthly_rate">Miesięczny kurs waluty</string>
+    <string name="currency_rates_fetching_error">Pobieranie walut nie powiodło się, spróbuj ponownie później</string>
+    <string name="currency_rates_fetching_in_progress">Trwa pobieranie danych walut</string>
+    <string name="currency_details_fetching_error">Pobieranie waluty nie powiodło się, spróbuj ponownie później</string>
+    <string name="currency_details_fetching_in_progress">Trwa pobieranie danych waluty</string>
+    <string name="gold_activity_title">Kurs złota</string>
+    <string name="gold_current_rate">Aktualny kurs złota (cena za 1 gram)</string>
+    <string name="gold_monthly_rate">Miesięczny kurs złota (cena za 1 gram)</string>
+    <string name="exchange_activity_title">Przelicznik walutowy</string>
+    <string name="exchange_error">Nastąpił błąd podczas ładowania kursów walut, spróbuj ponownie później</string>
+    <string name="currency_top_label">Wartość w złotych</string>
+    <string name="currency_bottom_label">Wartość w wybranej walucie</string>
+</resources>
