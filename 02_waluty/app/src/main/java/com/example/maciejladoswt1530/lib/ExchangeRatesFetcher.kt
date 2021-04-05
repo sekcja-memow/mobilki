@@ -1,13 +1,13 @@
-package com.example.myapplication.lib
+package com.example.maciejladoswt1530.lib
 
 import android.content.Context
 import android.util.Log
 import com.android.volley.Request
 import com.android.volley.toolbox.JsonArrayRequest
 import com.android.volley.toolbox.Volley
-import com.example.myapplication.data.CurrencyExchangeRate
-import com.example.myapplication.data.ExchangeRatesTable
-import com.example.myapplication.fromJson
+import com.example.maciejladoswt1530.data.CurrencyExchangeRate
+import com.example.maciejladoswt1530.data.ExchangeRatesTable
+import com.example.maciejladoswt1530.fromJson
 import com.google.gson.Gson
 
 class ExchangeRatesFetcher(val appContext: Context) {

@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.example.maciejladoswt1530
 
 import org.junit.Test
 

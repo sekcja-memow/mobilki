@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.example.maciejladoswt1530
 
 import android.os.Bundle
 import android.util.Log
@@ -7,9 +7,9 @@ import androidx.appcompat.app.AppCompatActivity
 import com.android.volley.Request
 import com.android.volley.toolbox.JsonObjectRequest
 import com.android.volley.toolbox.Volley
-import com.example.myapplication.data.CurrencyExchangeRateHistory
-import com.example.myapplication.data.CurrencyExchangeRateRecord
-import com.example.myapplication.layout.ExchangeRatesAxisFormatter
+import com.example.maciejladoswt1530.data.CurrencyExchangeRateHistory
+import com.example.maciejladoswt1530.data.CurrencyExchangeRateRecord
+import com.example.maciejladoswt1530.layout.ExchangeRatesAxisFormatter
 import com.github.mikephil.charting.charts.LineChart
 import com.github.mikephil.charting.components.XAxis
 import com.github.mikephil.charting.data.Entry

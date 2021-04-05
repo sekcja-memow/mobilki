@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.example.maciejladoswt1530
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -7,9 +7,9 @@ import android.widget.ProgressBar
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.blongho.country_data.World
-import com.example.myapplication.data.CurrencyExchangeRate
-import com.example.myapplication.layout.CurrencyRateListAdapter
-import com.example.myapplication.lib.ExchangeRatesFetcher
+import com.example.maciejladoswt1530.data.CurrencyExchangeRate
+import com.example.maciejladoswt1530.layout.CurrencyRateListAdapter
+import com.example.maciejladoswt1530.lib.ExchangeRatesFetcher
 
 class RatesActivity : AppCompatActivity() {
     lateinit var listAdapter: CurrencyRateListAdapter

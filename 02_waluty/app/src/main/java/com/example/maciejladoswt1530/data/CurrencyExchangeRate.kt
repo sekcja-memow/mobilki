@@ -1,4 +1,4 @@
-package com.example.myapplication.data
+package com.example.maciejladoswt1530.data
 
 data class CurrencyExchangeRate(
     val currency: String,

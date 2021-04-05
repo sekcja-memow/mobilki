@@ -1,13 +1,11 @@
-package com.example.myapplication
+package com.example.maciejladoswt1530
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.util.Log
 import android.view.View
 import android.widget.*
 import androidx.core.widget.doOnTextChanged
-import com.example.myapplication.lib.ExchangeRatesFetcher
-import com.github.mikephil.charting.charts.LineChart
+import com.example.maciejladoswt1530.lib.ExchangeRatesFetcher
 
 class ExchangeActivity : AppCompatActivity(), AdapterView.OnItemSelectedListener {
     private lateinit var form: LinearLayout

@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.example.maciejladoswt1530
 
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken

@@ -1,4 +1,4 @@
-package com.example.myapplication.layout
+package com.example.maciejladoswt1530.layout
 
 import android.content.Context
 import android.content.Intent
@@ -9,10 +9,10 @@ import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.blongho.country_data.World
-import com.example.myapplication.DetailsActivity
-import com.example.myapplication.Messages
-import com.example.myapplication.R
-import com.example.myapplication.data.CurrencyExchangeRate
+import com.example.maciejladoswt1530.DetailsActivity
+import com.example.maciejladoswt1530.Messages
+import com.example.maciejladoswt1530.R
+import com.example.maciejladoswt1530.data.CurrencyExchangeRate
 
 class CurrencyRateListAdapter(
         private val dataSet: List<CurrencyExchangeRate>,

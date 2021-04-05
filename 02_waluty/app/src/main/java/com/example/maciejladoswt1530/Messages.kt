@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.example.maciejladoswt1530
 
 object Messages {
     const val DISPLAYED_CURRENCY_CODE = "com.example.myfirstapp.DISPLAYED_CURRENCY_CODE"

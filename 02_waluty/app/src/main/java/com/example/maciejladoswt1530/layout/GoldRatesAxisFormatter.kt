@@ -1,7 +1,6 @@
-package com.example.myapplication.layout
+package com.example.maciejladoswt1530.layout
 
-import com.example.myapplication.data.CurrencyExchangeRateRecord
-import com.example.myapplication.data.GoldExchangeRateRecord
+import com.example.maciejladoswt1530.data.GoldExchangeRateRecord
 import com.github.mikephil.charting.formatter.ValueFormatter
 
 class GoldRatesAxisFormatter(private var rates: MutableList<GoldExchangeRateRecord>) : ValueFormatter() {
